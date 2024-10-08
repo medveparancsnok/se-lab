@@ -16,6 +16,7 @@ public class TorpedoStore {
 
   Random generator = new Random();
 
+  // The method is responsible for setting up the torpedos for the spaceship
   public TorpedoStore(int numberOfTorpedos){
     this.torpedoCount = numberOfTorpedos;
 
