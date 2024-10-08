@@ -1,3 +1,4 @@
+
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
@@ -38,4 +39,6 @@ The project represents an alpha version of a spaceship.
 - There are currently two tests (`GT4500Test`), but be aware that they are not proper unit tests, as they do not isolate the dependencies of the tested class.
 
 The code can be built, but due to missing features one of the tests fails. The first exercise will be to fix this.
+
+![Java CI with Maven](https://github.com/medveparancsnok/se-lab/actions/workflows/maven.yml/badge.svg)
 
